@@ -125,6 +125,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
 ## TDD IN RUBY
+* [Rails Testing Handbook](https://semaphoreci.com/ebooks/rails-testing-handbook)
 * [Introduction to test driven design](http://rubyoffrails.com/videos/18-introduction-to-test-driven-design-tdd)
 * [Rails girls - Test Driven Development](http://guides.railsgirls.com/test-driven-development)
 * [Learn TDD with Ruby Koans](http://rubykoans.com/)
